@@ -1,0 +1,4 @@
+Commands Used: 
+1) git add Info/InfoFile1.txt  git add Info/InfoFile2.txt 
+
+2) git config user.name "Cmills88_INFO"
